@@ -25,8 +25,8 @@ Handle any potential errors during the transcribing process. If the audio is not
 
 ## Program:
 ```
-Nmae: Thiyagarajan A
-Ref.no: 212222240110
+# Name: Thiyagarajan A
+# Ref.no: 212222240110
 
 import speech_recognition as sr
 
